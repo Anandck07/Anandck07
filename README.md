@@ -52,7 +52,7 @@ Matplotlib • Seaborn • Flask • Streamlit • HTML5 • CSS3
 # lt's Connect
 🔗 LinkedIn : www.linkedin.com/in/anand-kumbar07
 
-🐙 GitHub : https://github.com/anandck1
+🐙 GitHub : https://github.com/Anandck07
 
 📧 Email Me : kumbaranand007@gmail.com
 
