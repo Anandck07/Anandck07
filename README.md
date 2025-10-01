@@ -56,7 +56,7 @@ Matplotlib • Seaborn • Flask • Streamlit • HTML5 • CSS3
 
 📧 Email Me : kumbaranand007@gmail.com
 
-                                                            ⚡ “Build. Break. Innovate.” 🚀 
+                                         ⚡ “Build. Break. Innovate.” 🚀 
 
 
 <!--
