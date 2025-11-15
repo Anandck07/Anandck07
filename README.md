@@ -39,16 +39,16 @@ Risk prediction based on academic & engagement metrics
 
 # Skill and Tools
 💻 Languages:
-Python • SQL • C • C++
+Python • SQL • React • MongoDb • Figma • UI/UX
 
 📚 Frameworks & Libraries:
-TensorFlow • PyTorch • Scikit-Learn • OpenCV • SpeechRecognition • pyttsx3 • Flask • OpenAI API 
+TensorFlow • PyTorch • Scikit-Learn • OpenCV • SpeechRecognition • pyttsx3 • OpenAI API 
 
 🧰 Tools & Platforms:
 Git • GitHub • VS Code • Google Colab • Jupyter • Kaggle
 
 🎨 Others:
-Matplotlib • Seaborn • Flask • Streamlit • HTML5 • CSS3
+Matplotlib • Seaborn  • HTML5 • CSS3
 # lt's Connect
 🔗 LinkedIn : https://www.linkedin.com/in/anand-kumbar07
 
